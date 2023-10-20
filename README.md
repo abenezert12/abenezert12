@@ -8,7 +8,6 @@
 ## :hammer_and_wrench: Languages and Tools
 
 <p align="left"> 
-<div>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="git" width="40" height="40"/> </a>
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="css3" width="40" height="40"/> </a>
@@ -18,4 +17,5 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BootStrap" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/> </a>  
-</div>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abenezert12&theme=blux&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" alt="GitHub Streak" /></a>
