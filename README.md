@@ -1,7 +1,9 @@
 <h1 align="center">Hi Every one, I am Abenezer Tekalign Demeke</h1>
 <h3 align="center">I am Full Stack Software Engineering | Front-end Students</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogoreh&label=Profile%20views&color=0e75b6&style=flat" alt="bogoreh" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abenezert12&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
