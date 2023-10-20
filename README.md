@@ -3,20 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogoreh&label=Profile%20views&color=0e75b6&style=flat" alt="bogoreh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdibogoreh1" target="blank"><img src="https://img.shields.io/twitter/follow/abdibogoreh1?logo=twitter&style=for-the-badge" alt="abdibogoreh1" /></a> </p>
-
-- 🔭 I’m currently working on **Python(Django)**
-
-- 👨‍💻 All of my projects are available at [abdibogoreh.netlify.app](abdibogoreh.netlify.app)
-
-- 💬 Ask me about **php, Laravel**
-
-- 📫 How to reach me **bogoreh026@gmail.com**
-
-- 📄 Know about my experiences [careercv.netlify.app/](careercv.netlify.app/)
-
-- ⚡ Fun fact **I use tabs over spaces**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdibogoreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdibogoreh" height="30" width="40" /></a>
