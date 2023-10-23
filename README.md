@@ -1,5 +1,5 @@
 <h1 align="center">Hi Every one, I am Abenezer Tekalign Demeke</h1>
-<h3 align="center">I am Full Stack Software Engineering | Front-end Students</h3>
+<h3 align="center">I am Full Stack Software Engineering | Front-end ALX Students</h3>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=abenezert12&label=Profile%20Views&color=1&icon=5&pretty=true" />
