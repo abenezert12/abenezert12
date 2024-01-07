@@ -1,4 +1,4 @@
-<h1 align="center">Hi Every one, I am Abenezer Tekalign Demeke</h1>
+<h1 align="center">Hi, I am Abenezer Tekalign Demeke</h1>
 <h3 align="center">I am Full Stack Software Engineering | Front-end ALX Students</h3>
 
 <a href="https://visitcount.itsvg.in">
@@ -17,8 +17,3 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BootStrap" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/> </a>  
-
-## 📊 My Stats
-<div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abenezert12&theme=nord&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" alt="GitHub Streak" /></a>
-</div>
