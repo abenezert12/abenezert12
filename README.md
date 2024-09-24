@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I am Abenezer Tekalign</h1>
 <h3 align="left">About Me</h3>
 
+I am a **Full Stack Software Engineer** with a focus on **Front-end Development**, recently graduated from **ALX Ethiopia**. I’m passionate about building seamless user experiences and crafting clean, efficient code.
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=abenezert12&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
