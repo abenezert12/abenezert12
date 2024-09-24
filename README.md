@@ -36,7 +36,7 @@ I am a **Full Stack Software Engineer** with a specialization in Front-end devel
 
 ## 🌟 Projects
 
-**[Project 1](https://github.com/abenezert12/Real_Estate_Plc)**
+**[Project](https://github.com/abenezert12/Real_Estate_Plc)**
 
 ---
 
