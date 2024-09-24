@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I am Abenezer Tekalign</h1>
 <h3 align="left">About Me</h3>
-
+--
 I am a **Full Stack Software Engineer** with a specialization in Front-end development, recently graduated from **ALX Ethiopia**. I’m passionate about building seamless user experiences and crafting clean, efficient code.
 
 ## 🎮 Fun Facts
+
 - 🚀 I’m always open to experimenting with new front-end technologies.
 - 🎨 I have a passion for designing smooth user interfaces.
 
@@ -35,7 +36,7 @@ I am a **Full Stack Software Engineer** with a specialization in Front-end devel
 
 ## 🌟 Projects
 
-1. **[Project 1](https://github.com/abenezert12/Real_Estate_Plc)**
+**[Project 1](https://github.com/abenezert12/Real_Estate_Plc)**
 
 ---
 
