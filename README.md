@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Abenezer Tekalign</h1>
-<h3 align="left">About Me</h3>
+<h3 align="left">💡 About Me</h3>
 
 I am a **Full Stack Software Engineer** with a specialization in Front-end development, recently graduated from **ALX Ethiopia**. I’m passionate about building seamless user experiences and crafting clean, efficient code.
 
