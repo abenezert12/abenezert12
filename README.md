@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I am Abenezer Tekalign</h1>
 <h3 align="left">About Me</h3>
 
-I am a **Full Stack Software Engineer** with a focus on **Front-end Development**, recently graduated from **ALX Ethiopia**. I’m passionate about building seamless user experiences and crafting clean, efficient code.
+I am a **Full Stack Software Engineer** with a specialization in Front-end development, recently graduated from **ALX**. I’m passionate about building seamless user experiences and crafting clean, efficient code.
+
+## 🎮 Fun Facts
+- 🚀 I’m always open to experimenting with new front-end technologies.
+- 🎨 I have a passion for designing smooth user interfaces.
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=abenezert12&label=Profile%20Views&color=1&icon=5&pretty=true" />
@@ -19,3 +23,23 @@ I am a **Full Stack Software Engineer** with a focus on **Front-end Development*
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BootStrap" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/> </a>  
+
+---
+
+## 🏆 Achievements
+
+- Graduated from **ALX Ethiopia** with Full Stack Software Engineering, Front-end specialization.
+- Built multiple web applications with modern technologies like React and Bootstrap.
+
+---
+
+## 🌟 Projects
+
+1. **[Project 1](https://github.com/yourusername/project1)**
+
+---
+
+##  📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
